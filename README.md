@@ -3,4 +3,4 @@
 
 Criação de aplicativo de registro de apostas.
 
-[online documentation](https://flutter.dev/docs)
+[Documentação do Flutter](https://flutter.dev/docs)
