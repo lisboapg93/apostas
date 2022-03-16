@@ -1,6 +1,6 @@
 # Aplicativo de apostas
 
 
-This project is a starting point for a Flutter application.
+Criação de aplicativo de registro de apostas.
 
 [online documentation](https://flutter.dev/docs)
