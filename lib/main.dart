@@ -41,9 +41,22 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title, textAlign: TextAlign.center,
         ),
       ),
-      body: Center(
+      body: Container(
         child: Column(
-
+          children: <Widget>[
+            Form(child: Row(
+              children: <Widget>[
+                Expanded(
+                  child: TextFormField(),
+                ),
+                RaisedButton(
+                  child: Text('Add'),
+                  onPressed: (){},
+                )
+              ],
+            ),
+            )
+          ],
         ),
       ),
     );
